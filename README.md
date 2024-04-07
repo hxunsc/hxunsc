@@ -2,10 +2,6 @@
 
 Major: Software
 
-### 🌱 I’m currently learning ...
-- Computer network
-- Studying major, etc..
-
 ### 📫 How to reach me ...
 - email : hyunsss21@naver.com
 - insta : @hxunsc
