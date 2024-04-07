@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi I'm Hyeonseo 👋
 
+### Major: Software
+
+### 🌱 I’m currently learning ...
+- Computer network
+- Studying major, etc..
+
+### 📫 How to reach me ...
+- email : hyunsss21@naver.com
+- insta : @hxunsc
+  
 <!--
 **hxunsc/hxunsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
