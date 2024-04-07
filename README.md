@@ -1,6 +1,6 @@
 ### Hi I'm Hyeonseo 👋
 
-### Major: Software
+Major: Software
 
 ### 🌱 I’m currently learning ...
 - Computer network
