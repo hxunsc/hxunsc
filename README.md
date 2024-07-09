@@ -4,7 +4,6 @@ Major: Software
 
 ### 📫 How to reach me ...
 - email : hyunsss21@naver.com
-- insta : @hxunsc
   
 <!--
 **hxunsc/hxunsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
