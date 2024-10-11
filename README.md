@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Hello!%20I'm%20Hyeonseo&fontSize=30" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Hello!%20I'm%20Hyeonseo&fontSize=30" />
+</div>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
