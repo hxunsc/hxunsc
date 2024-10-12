@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Hello!%20I'm%20Hyeonseo&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello!%20I'm%20Hyeonseo&fontSize=30" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -45,8 +45,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:hxunsc@gmail.com">
-    <img
-      src="https://img.shields.io/badge/hxunsc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hxunsc@gmail.com"/>
   </a>
 </div>
 
@@ -60,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hxunsc&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 -->
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxunsc&show_icons=true&theme=radical&count_private=true" alt="hyeonseo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hxunsc&show_icons=true&theme=shadow_green&count_private=true" alt="hyeonseo's GitHub stats" />
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxunsc&layout=donut)-->
